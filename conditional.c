@@ -18,5 +18,4 @@ int main(void)
     {
         printf("x is invalid\n");
     }
-//conditional2
 }
