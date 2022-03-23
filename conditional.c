@@ -16,7 +16,7 @@ int main(void)
 //conditional2
     else
     {
-        printf("deu ruim\n");
+        printf("x is invalid\n");
     }
 //conditional2
 }
